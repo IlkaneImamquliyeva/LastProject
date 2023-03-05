@@ -1,0 +1,15 @@
+.readmore{
+    width: 100%;
+    // background-color: aqua;
+    .container{
+      display: flex;
+            .readmoreleft{
+                height: 200px;
+                background-color: rgb(189, 189, 189);
+            }
+            .readmoreright{
+                height: 200px;
+                // background-color: rgb(128, 104, 104);
+            }
+        }
+    }

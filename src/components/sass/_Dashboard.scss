@@ -1,0 +1,25 @@
+
+.dashboard{
+    width: 100%;
+    padding: 20px;
+    margin-top: 25px;
+    .container{
+    display: flex;
+    justify-content: end;
+    button{
+        padding: 17px 28px;
+        background-color: #C6A1DB;
+        border: none;
+        border-radius: 20px;
+        color: white;
+        font-size: 22px;
+        a{
+            text-decoration: none;
+            color: white;
+            font-weight: 900;
+        }
+    }
+}
+
+}
+

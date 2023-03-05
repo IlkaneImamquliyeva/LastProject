@@ -1,0 +1,163 @@
+.dark{
+   .navbar{
+      width: 100%;
+      background-color: #a8a8a8;
+ 
+   z-index: 3;
+   position: sticky;
+   top: 0;
+      .logo {
+         img {
+            height: 70px;
+         }
+      }
+      
+      .nav{
+         li{
+            list-style: none;
+            .nav-link{
+               color: #f8f8f8 ;
+      font-weight: 700;
+      font-size: 20px;
+   
+           }
+         }
+      }
+      
+   
+   
+   .icon{
+   
+   .nav-icon-search {
+      background-color: #b7a1db;
+      color: white;
+      border: none;
+      padding: 8px 14px;
+      border-radius: 12px;
+   }
+   
+   .nav-icon-basket {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #b7a1db;
+      color: white;
+      border: none;
+      padding: 8px 11px;
+      border-radius: 12px;
+   
+   }
+   
+   .nav-icon-login {
+      background-color: #b7a1db;
+      color: white;
+      border: none;
+      padding: 8px 14px;
+      border-radius: 12px;
+   }
+   
+   }
+   
+   }
+}
+
+// darkk-----------
+
+
+
+
+.navbar{
+   width: 100%;
+   background-color: #ffffff;
+// background-color:  rgba( 0, 0, 0, 0.3);
+z-index: 3;
+position: sticky;
+top: 0;
+   .logo {
+      img {
+         height: 70px;
+      }
+   }
+   
+   .nav{
+      li{
+         list-style: none;
+         .nav-link{
+            color: #141414 ;
+   font-weight: 700;
+   font-size: 20px;
+
+        }
+      }
+   }
+   
+
+
+.icon{
+   display: flex;
+   align-items: center;
+   .nav-icon-search {
+      background-color: #b7a1db;
+      color: white;
+      border: none;
+      padding: 8px 14px;
+      border-radius: 12px;
+
+   }
+   
+   .nav-icon-basket {
+      display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: #b7a1db;
+   color: white;
+   border: none;
+   padding: 8px 11px;
+   border-radius: 12px;
+
+}
+
+.nav-icon-login {
+   background-color: #b7a1db;
+   color: white;
+   border: none;
+   padding: 8px 14px;
+   border-radius: 12px;
+}
+
+.btn{
+   margin-top: 20px;
+   .loginimg{
+      
+      //  width: 100%;
+      //  margin-bottom: -3px;
+      img{
+        border-radius: 50%;
+   //   width: 350%;
+     height: 40px;
+   //   margin-top: -6px;
+   }
+  }
+
+
+}
+
+
+.dropdown-menu{
+   margin-left: -110px;
+  li{
+     &:hover{
+    button{
+      background-color: #E9ECEF;
+    }
+     }
+   button{
+     border: none;
+     background-color: white;
+   }
+  }
+}
+}
+
+}
+

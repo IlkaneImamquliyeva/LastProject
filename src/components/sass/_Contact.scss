@@ -1,0 +1,206 @@
+
+.dark{
+    .contact {
+
+        background-image: url('../imgs//contact/contactimg2.webp');
+        width: 100%;
+        margin-top: 90px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+        .contact-center {
+            background-color: rgb(255, 226, 187);
+    
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+    
+            .con-text {
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+    
+                h1 {
+                  color: rgb(66, 66, 66);
+                    font-size: 55px;
+                    font-weight: 900;
+                    margin-top: 25px;
+                }
+            }
+    
+            .cont-center {
+                width: 100%;
+                display: flex;
+    
+                .con-left {
+            background-color: rgb(255, 226, 187);
+    
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-direction: column;
+    
+                    input {
+                        width: 80%;
+                        height: 40px;
+                        border: none;
+                        border-radius: 50px;
+                        padding: 40px 20px;
+                        margin-top: 30px;
+                        
+    
+                    }
+    
+                }
+    
+                .con-right {
+                    background-color: rgb(255, 226, 187);
+                    display: flex;
+                    align-items: center;
+                    justify-content: start;
+    
+                    input {
+                        width: 90%;
+                        height: 300px;
+                        border: none;
+                        border-radius: 50px;
+                    }
+    
+                }
+            }
+    
+            .con-button {
+                margin-top: 30px;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-bottom: 65px;
+    
+                .buttoncon {
+                    width: 50%;
+                    height: 70px;
+                    background-color: white;
+                    // background-color: #845A3D;
+                    border: none;
+                    border-radius: 50px;
+                   color: rgb(153, 153, 153);
+                    font-size: 40px;
+                    font-weight: 900;
+                    &:hover{
+                        background-color: rgb(204, 204, 204);
+                        color: white;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+// ---------dark
+
+
+.contact {
+
+    background-image: url('../imgs//contact/contactimg2.webp');
+    width: 100%;
+    margin-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .contact-center {
+        background-color: rgb(255, 226, 187);
+
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+        .con-text {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            h1 {
+              color: white;
+                font-size: 55px;
+                font-weight: 900;
+                margin-top: 25px;
+            }
+        }
+
+        .cont-center {
+            width: 100%;
+            display: flex;
+
+            .con-left {
+        background-color: rgb(255, 226, 187);
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+
+                input {
+                    width: 80%;
+                    height: 40px;
+                    border: none;
+                    border-radius: 50px;
+                    padding: 40px 20px;
+                    margin-top: 30px;
+
+                }
+
+            }
+
+            .con-right {
+                background-color: rgb(255, 226, 187);
+                display: flex;
+                align-items: center;
+                justify-content: start;
+
+                input {
+                    width: 90%;
+                    height: 300px;
+                    border: none;
+                    border-radius: 50px;
+                }
+
+            }
+        }
+
+        .con-button {
+            margin-top: 30px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 65px;
+
+            .buttoncon {
+                width: 50%;
+                height: 70px;
+                background-color: white;
+                // background-color: #845A3D;
+                border: none;
+                border-radius: 50px;
+               color: rgb(153, 153, 153);
+                font-size: 40px;
+                font-weight: 900;
+                &:hover{
+                    background-color: rgb(204, 204, 204);
+                    color: white;
+                }
+            }
+        }
+    }
+}

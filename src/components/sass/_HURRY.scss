@@ -1,0 +1,153 @@
+.dark{
+    .hurry {
+        width: 100%;
+        background-color: rgb(255, 226, 187);
+    
+        .container {
+            margin-top: 25px;
+    
+            .row {
+                .hurry-box {
+            margin-bottom: 25px;
+    
+                    .dd {
+                        h1 {
+                            color: rgb(58, 58, 58);
+                            font-weight: 900;
+                            line-height: 60px;
+                        }
+                    }
+    
+                    .ff {
+                        margin-bottom: 15px;
+                        h2 {
+                            color: rgb(83, 83, 83);
+                            font-weight: 900;
+                        }
+                    }
+                }
+    
+                .button-hurry {
+                    button {
+                        width: 30%;
+                        height: 65px;
+                        border: none;
+                        border-radius: 10px;
+                        background-color: rgb(68, 68, 68);
+                        color: rgb(253, 253, 253);
+                        font-size: 30px;
+                        font-weight: 900;
+                    }
+                }
+            }
+        }
+    
+        ///////////////////  ---------path-top-start-------
+        .elementor-shape .elementor-shape-fill {
+            fill: #353232;
+            transform-origin: center;
+            transform: rotateY(0deg);
+        }
+    
+        ///////////////////  ---------path-top-end-------
+    }
+    
+    .divv {
+        width: 100%;
+        background-color: rgb(255, 226, 187);
+    
+        ///////////////////  ---------path-bottom-start-------
+        .elementor-shape[data-negative=false].elementor-shape-bottom,
+        .elementor-shape[data-negative=true].elementor-shape-top {
+            transform: rotate(180deg);
+            
+        }
+    
+        .elementor-shape .elementor-shape-fill {
+            fill: #353232;
+            transform-origin: center;
+            transform: rotateY(0deg);
+        }
+    
+        ///////////////////  ---------path-bottom-end-------
+    
+    }
+}
+
+
+// -----------darkk
+
+
+.hurry {
+    width: 100%;
+    background-color: rgb(255, 226, 187);
+
+    .container {
+        margin-top: 25px;
+
+        .row {
+            .hurry-box {
+        margin-bottom: 25px;
+
+                .dd {
+                    h1 {
+                        color: white;
+                        font-weight: 900;
+                        line-height: 60px;
+                    }
+                }
+
+                .ff {
+                    margin-bottom: 15px;
+                    h2 {
+                        color: white;
+                        font-weight: 900;
+                    }
+                }
+            }
+
+            .button-hurry {
+                button {
+                    width: 30%;
+                    height: 65px;
+                    border: none;
+                    border-radius: 10px;
+                    background-color: white;
+                    color: rgb(255, 226, 187);
+                    font-size: 30px;
+                    font-weight: 900;
+                }
+            }
+        }
+    }
+
+    ///////////////////  ---------path-top-start-------
+    .elementor-shape .elementor-shape-fill {
+        fill: #fff;
+        transform-origin: center;
+        transform: rotateY(0deg);
+    }
+
+    ///////////////////  ---------path-top-end-------
+}
+
+.divv {
+    width: 100%;
+    background-color: rgb(255, 226, 187);
+
+    ///////////////////  ---------path-bottom-start-------
+    .elementor-shape[data-negative=false].elementor-shape-bottom,
+    .elementor-shape[data-negative=true].elementor-shape-top {
+        transform: rotate(180deg);
+        
+    }
+
+    .elementor-shape .elementor-shape-fill {
+        fill: #fff;
+        transform-origin: center;
+        transform: rotateY(0deg);
+    }
+
+    ///////////////////  ---------path-bottom-end-------
+
+}

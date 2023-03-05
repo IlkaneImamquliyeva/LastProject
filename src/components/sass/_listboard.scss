@@ -1,0 +1,51 @@
+.listboard {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+
+    .container {
+
+        .table {
+            width: 100%;
+            height: auto;
+
+            th {
+                font-weight: 900;
+                font-size: 30px;
+            }
+
+            tr {
+                font-weight: 700;
+                font-size: 18px;
+            }
+            .btntrash {
+                padding: 8px 20px;
+                background-color: #8f4bee;
+                border-radius: 10px;
+                border-style: none;
+                color: #FFFFFF;
+                cursor: pointer;
+
+                &:hover {
+                    background-color: #B9A1DB;
+                }
+            }
+
+            .btnedit {
+                padding: 8px 20px;
+                cursor: pointer;
+                background-color: #ffc579;
+                border-style: none;
+                color: #fff;
+                border-radius: 8px;
+                margin-left: 8px;
+
+                &:hover {
+                    background-color: #FFE2BB;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,224 @@
+.dark{
+    #root{
+        background-color: #353232;
+    }
+    .divvv{
+        width: 100%;
+        background-color: #FFE2BB;
+       
+        ///////////////////  ---------path-bottom-start-------
+        .elementor-shape[data-negative=false].elementor-shape-bottom,
+        .elementor-shape[data-negative=true].elementor-shape-top {
+            transform: rotate(0deg);
+            
+        }
+    
+        .elementor-shape .elementor-shape-fill {
+            fill: #444444;
+            transform-origin: center;
+            transform: rotateY(0deg);
+        }
+    
+    
+    
+        ///////////////////  ---------path-bottom-end-------
+      
+    
+        
+    .section1 {
+        width: 100%;
+        height: 630px;
+        // background-color: #353232;
+        background-color: #FFE2BB;
+
+        margin-top: 70px;
+    
+    
+    
+        .text-section1 {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+    
+            .Offers {
+                font-size: 50px;
+                color: rgb(255, 255, 255);
+                font-weight: 900;
+                margin-top: 44px;
+            }
+    
+            .Care {
+                font-size: 50px;
+                color: white;
+                font-weight: 900;
+                margin-bottom: 50px;
+            }
+        }
+    
+        // .boxx {
+    
+            .box-con {
+                width: 100%;
+                background-color: rgb(255, 255, 255);
+                border-radius: 15px;
+                box-shadow: 5px 10px 27px #b1b1b1;
+                .container {
+                    .row{
+    
+                    .sec1 {
+                        height: 230px;
+                        // background-color: chartreuse;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+    
+                        .number1 {
+                            // background-color: aquamarine;
+                            display: flex;
+                            justify-content: center;
+                            flex-direction: column;
+    
+                            .yuzelli {
+                                font-weight: 900;
+                                font-size: 40px;
+                                font-family: sans-serif;
+                                padding-left: 12px;
+                            }
+    
+                            .Pets {
+                                color: rgb(255, 226, 187);
+                                font-family: sans-serif;
+                                font-weight: 900;
+                                font-size: 18px;
+                                padding-left: 12px;
+                            }
+                        }
+                    }
+                }
+            }
+            }
+        }
+    
+    
+    }
+    
+    
+    
+    
+    // .elementor-shape-fill {
+    //     background-color: orange !important;
+    // }
+}
+
+
+
+// ##########---dark----##################
+
+
+
+.divvv{
+    width: 100%;
+    background-color: rgb(255, 226, 187);
+
+    ///////////////////  ---------path-bottom-start-------
+    .elementor-shape[data-negative=false].elementor-shape-bottom,
+    .elementor-shape[data-negative=true].elementor-shape-top {
+        transform: rotate(0deg);
+        
+    }
+
+    .elementor-shape .elementor-shape-fill {
+        fill: #fff;
+        transform-origin: center;
+        transform: rotateY(0deg);
+    }
+
+
+
+    ///////////////////  ---------path-bottom-end-------
+  
+
+    
+.section1 {
+    width: 100%;
+    height: 630px;
+    background-color: rgb(255, 226, 187);
+    margin-top: 70px;
+
+
+
+    .text-section1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+        .Offers {
+            font-size: 50px;
+            color: white;
+            font-weight: 900;
+            margin-top: 44px;
+        }
+
+        .Care {
+            font-size: 50px;
+            color: white;
+            font-weight: 900;
+            margin-bottom: 50px;
+        }
+    }
+
+    // .boxx {
+
+        .box-con {
+            width: 100%;
+            background-color: rgb(255, 255, 255);
+            border-radius: 15px;
+            box-shadow: 5px 10px 27px #b1b1b1;
+            .container {
+                .row{
+
+                .sec1 {
+                    height: 230px;
+                    // background-color: chartreuse;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+
+                    .number1 {
+                        // background-color: aquamarine;
+                        display: flex;
+                        justify-content: center;
+                        flex-direction: column;
+
+                        .yuzelli {
+                            font-weight: 900;
+                            font-size: 40px;
+                            font-family: sans-serif;
+                            padding-left: 12px;
+                        }
+
+                        .Pets {
+                            color: rgb(255, 226, 187);
+                            font-family: sans-serif;
+                            font-weight: 900;
+                            font-size: 18px;
+                            padding-left: 12px;
+                        }
+                    }
+                }
+            }
+        }
+        }
+    }
+
+
+}
+
+
+
+
+// .elementor-shape-fill {
+//     background-color: orange !important;
+// }

@@ -1,0 +1,49 @@
+.login{
+    width: 100%;
+    height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .loginBox{
+            width: 70%;
+            height: 400px;
+            background-color: #FFE2BB;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            font-size: 22px;
+    border-radius: 15px;
+
+
+.divlogin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+input{
+    border-radius: 15px;
+    border: none;
+    padding-left: 20px;
+    height: 50px;
+ 
+}
+
+}
+
+            .logout{
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
+
+          }
+         button{
+            border: none;
+            padding: 10px 10px;
+         }
+
+        }
+    }

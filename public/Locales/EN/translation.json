@@ -1,0 +1,131 @@
+{
+    "language": {
+        "home": {
+            "welcome": "Welcome to our Dog Clothing store!",
+            "home": "HOME",
+            "shop": " SHOP",
+            "blog": "BLOG",
+            "contact": "CONTACT",
+            "petshop": "PET SHOP",
+            "make": "MAKE YOUR PETS HAPPY",
+            "bestseller": "BEST SELLER",
+            "weoffers": "We Offers For your Pet",
+            "care": "Care Solutions",
+            "pet1": " Pets Grooming",
+            "pet2": " Pet Adoptions",
+            "pet3": " Pet Awards",
+            "pet4": " Happy Clients",
+            "pet5": " Event Done",
+            "pet6": " Professionals",
+            "Competitions": " Competitions",
+            "Awards": " & Awards",
+            "Agility": "Agility is an exciting, fast paced and fun sport for us and our dogs. Agility is a set course of obstacles that your dog must navigate properly in order and within time. ",
+            "Hurryup": "  Hurry up!",
+            "there": "There is a 30% discount on all clothes.",
+            "shop2": " SHOP",
+            "main": "184 Main Rd E, St Albans VIC 3021, Australia",
+            "example": "example@example.com",
+            "Working": " Working House",
+            "support": "  Our support available to help you 24 hours a day. We provide our best.",
+            "Mon": " Mon – Fri : 08.00 am – 20.00 pm",
+            "Saturday": "  Saturday : 09.00 am – 20.00 pm",
+            "Sunday": "  Sunday : 09.00 am – 20.00 pm",
+            "Links": "  Quick Links",
+            "Boarding": " Boarding Services",
+            "Grooming": "  Grooming Services",
+            "Dog": "  Dog Boarding",
+            "Pet7": "Pet Training",
+            "Pet8": "Pet Adoptions",
+            "Newsletter": " Newsletter Signup",
+            "Subscribe": "     Subscribe To Our Newsletter And Get Daily 10% Off Your First Purchase."
+      
+        },
+        "shopp": {
+        "Category": "Shop by Category ",
+        "CoatsJackets": "Coats & Jackets ",
+        "Sweaters": "Sweaters ",
+        "Pajamas": "Pajamas ",
+        "BootsSocks": "Boots & Socks ",
+        "Accessories": "Accessories ",
+        "Sports": "Sports ",
+        "OutdoorGear": "Outdoor Gear ",
+        "Hoodies": "Hoodies ",
+        "Shirts": "Shirtss ",
+        "Dress": "Dress ",
+        
+        "Welcome1": "Welcome  ",
+        "Logout": "Log out  ",
+        "SIGNIN": "SIGN IN  ",
+        "Email": "Email",
+        "Password": "Password"
+    },
+    "contact": {
+        "ContactUs": "Contact Us ",
+        "Getintouch": "Get in touch  ",
+        "Send": "Send  ",
+        "FullName": "Full Name ",
+        "YourEmail": "Your Email ",
+        "PhoneNumber": "Phone Number"
+},
+"basket": {
+    "cartisempty": "cart is empty",
+    "img": "image",
+    "title": "title",
+    "price": "price",
+    "Quantity": "Quantity",
+    "Delete": "Delete",
+    "Totalprice": "Total price",
+    "BuyNow": "Buy Now"
+
+},
+"wishlist": {
+    "Yourwishlistisempty": " Your wishlist is empty  ",
+    "delete": "delete  ",
+    "card": "card  "
+},
+"dashboard": {
+    "Dashboard": "Dashboard ",
+    "Title": "Title ",
+    "Price": "Price ",
+    "Actions": "Actions ",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "MoviesListBoard": "Movies ListBoard",
+    "Image": "Image",
+    "ADD": "ADD",
+    "Addtocart": "Add to cart",
+    "Wishlist": "Wishlist"
+
+
+    
+    
+    
+
+}
+
+   
+
+        
+        
+       
+
+
+        
+        
+        
+        
+        
+
+        
+
+
+
+         
+        
+
+        
+        
+        
+        
+    }
+}
